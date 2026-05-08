@@ -75,4 +75,4 @@ Actual SPLY = CALCULATE([Total Actual], DATEADD('Calendar'[Date], -12, MONTH))
 
 ---
 
-**Senast uppdaterad:** [Datum du skapade detta]
+**Senast uppdaterad:** 2026-05-08
