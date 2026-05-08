@@ -7,12 +7,12 @@ Visar budget vs utfall-varianser på department- och konto-nivå,
 med KPI-uppföljning och trendanalys över 3 år.
 
 ### Features
-- ✅ P&L-rapportering (Resultaträkning)
-- ✅ Budget vs Utfall med varianser i % och kronor
-- ✅ Department-nivå drill-down och jämförelse
-- ✅ KPI-kort: Totalt Budget, Totalt Actual, Vinstmarginal, Budget Achievement %
-- ✅ Trendanalys över 36 månader (2022-2024)
-- ✅ Säsongsvariation synlig (högre Q4, lägre sommaren)
+-  P&L-rapportering (Resultaträkning)
+-  Budget vs Utfall med varianser i % och kronor
+-  Department-nivå drill-down och jämförelse
+-  KPI-kort: Totalt Budget, Totalt Actual, Vinstmarginal, Budget Achievement %
+-  Trendanalys över 36 månader (2022-2024)
+-  Säsongsvariation synlig (högre Q4, lägre sommaren)
 
 ## Teknologi
 
